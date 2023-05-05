@@ -1,6 +1,6 @@
 # Regression_Classification
 
 - Logistic regression
-- Neural networ
+- Neural networK
 - Random forest
 - Data Visualization
